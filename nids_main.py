@@ -14,11 +14,11 @@ st.set_page_config(page_title="AI-NIDS Student Project", layout="wide")
 st.markdown("""
 <style>
 body {
-    background-color: #0e1117;
+    background-color: #39568f;
 }
 
 .card {
-    background-color: #161b22;
+    background-color: #7ba5e0;
     padding: 20px;
     border-radius: 12px;
     box-shadow: 0 0 10px rgba(0,0,0,0.4);
@@ -46,7 +46,7 @@ body {
     border-radius: 6px;
     margin: 4px;
     display: inline-block;
-    background: #222;
+    background: #706868;
 }
 
 .chat-ai {
